@@ -41,6 +41,7 @@ anychart.onDocumentReady(function () {
         // set the container id for the chart
         chart.container('chartBox');
 
+        chart.margin(35);
         // initiate the chart drawing
         chart.draw();
 
