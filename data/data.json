@@ -1,0 +1,255 @@
+{
+    "timeline": [
+      {
+        "description": "태조",
+        "title": "태조",
+        "start": "1392/07/17",
+        "end": "1398/09/05",
+        "color": "#00a950"
+        },
+      {
+        "description": "정종",
+        "title": "정종",
+        "start": "1398/09/05",
+        "end": "1400/11/13",
+        "color": "#00a950"
+      },
+      {
+        "description": "태종",
+        "title": "태종",
+        "start": "1400/11/13",
+        "end": "1418/08/10",
+        "color": "#00a950"
+      },
+      {
+        "description": "세종",
+        "title": "세종",
+        "start": "1418/09/09",
+        "end": "1450/02/22",
+        "color": "#00a950"
+      },
+      {
+        "description": "문종",
+        "title": "문종",
+        "start": "1450/02/22",
+        "end": "1452/05/14",
+        "color": "#00a950"
+      },
+      {
+        "description": "단종",
+        "title": "단종",
+        "start": "1452/05/18",
+        "end": "1455/06/11",
+        "color": "#00a950"
+      },
+      {
+        "description": "세조",
+        "title": "세조",
+        "start": "1455/06/11",
+        "end": "1468/09/07",
+        "color": "#00a950"
+      },
+      {
+        "description": "예종",
+        "title": "예종",
+        "start": "1468/09/07",
+        "end": "1469/11/28",
+        "color": "#00a950"
+      },
+      {
+        "description": "성종",
+        "title": "성종",
+        "start": "1469/11/28",
+        "end": "1494/12/24",
+        "color": "#00a950"
+      },
+      {
+        "description": "연산군",
+        "title": "연산군",
+        "start": "1494/12/29",
+        "end": "1506/09/02",
+        "color": "#00a950"
+      },
+      {
+        "description": "중종",
+        "title": "중종",
+        "start": "1506/09/02",
+        "end": "1544/11/14",
+        "color": "#00a950"
+      },
+      {
+        "description": "인종",
+        "title": "인종",
+        "start": "1544/11/20",
+        "end": "1545/07/01",
+        "color": "#00a950"
+      },
+      {
+        "description": "명종",
+        "title": "명종",
+        "start": "1545/07/06",
+        "end": "1567/06/28",
+        "color": "#00a950"
+      },
+      {
+        "description": "선조",
+        "title": "선조",
+        "start": "1567/07/03",
+        "end": "1608/02/01",
+        "color": "#00a950"
+      },
+      {
+        "description": "광해군",
+        "title": "광해군",
+        "start": "1608/02/02",
+        "end": "1623/03/14",
+        "color": "#00a950"
+      },
+      {
+        "description": "인조",
+        "title": "인조",
+        "start": "1623/03/14",
+        "end": "1649/05/08",
+        "color": "#00a950"
+      },
+      {
+        "description": "효종",
+        "title": "효종",
+        "start": "1649/05/13",
+        "end": "1659/05/04",
+        "color": "#00a950"
+      },
+      {
+        "description": "현종",
+        "title": "현종",
+        "start": "1659/05/09",
+        "end": "1674/08/18",
+        "color": "#00a950"
+      },
+      {
+        "description": "숙종",
+        "title": "숙종",
+        "start": "1674/08/23",
+        "end": "1720/06/08",
+        "color": "#00a950"
+      },
+      {
+        "description": "경종",
+        "title": "경종",
+        "start": "1720/06/13",
+        "end": "1724/08/25",
+        "color": "#00a950"
+      },
+      {
+        "description": "영조",
+        "title": "영조",
+        "start": "1724/08/30",
+        "end": "1776/03/05",
+        "color": "#00a950"
+      },
+      {
+        "description": "정조",
+        "title": "정조",
+        "start": "1776/03/10",
+        "end": "1800/06/28",
+        "color": "#00a950"
+      },
+      {
+        "description": "순조",
+        "title": "순조",
+        "start": "1800/07/04",
+        "end": "1834/11/13",
+        "color": "#00a950"
+      },
+      {
+        "description": "헌종",
+        "title": "헌종",
+        "start": "1834/11/18",
+        "end": "1849/06/06",
+        "color": "#00a950"
+      },
+      {
+        "description": "철종",
+        "title": "철종",
+        "start": "1849/06/09",
+        "end": "1863/12/08",
+        "color": "#00a950"
+      },
+      {
+        "description": "고종",
+        "title": "고종",
+        "start": "1864/01/21",
+        "end": "1907/07/19",
+        "color": "#00a950"
+      },
+      {
+        "description": "순종",
+        "title": "순종",
+        "start": "1907/07/19",
+        "end": "1910/08/29",
+        "color": "#00a950"
+      }
+    ],
+    "facts": [
+        {"description": "조선 건국", "title": "조선 건국", "date": "1393/01/01"},
+        {"description": "한양천도", "title": "한양천도", "date": "1394/01/01"},
+        {"description": "1차 왕자의 난", "title": "1차 왕자의 난", "date": "1398/01/01"},
+        {"description": "2차 왕자의 난", "title": "2차 왕자의 난", "date": "1400/01/01"},
+        {"description": "신문고 설치", "title": "신문고 설치", "date": "1401/01/01"},
+        {"description": "집현전 설치", "title": "집현전 설치", "date": "1420/01/01"},
+        {"description": "농사직설 편찬", "title": "농사직설 편찬", "date": "1429/01/01"},
+        {"description": "자격루 설치", "title": "자격루 설치", "date": "1434/01/01"},
+        {"description": "훈민정음 창제", "title": "훈민정음 창제", "date": "1443/12/01"},
+        {"description": "용비어천가 편찬", "title": "용비어천가 편찬", "date": "1445/04/01"},
+        {"description": "훈민정음 반포", "title": "훈민정음 반포", "date": "1446/09/01"},
+        {"description": "몽유도원도", "title": "몽유도원도", "date": "1447/01/01"},
+        {"description": "고려사절요 편찬", "title": "고려사절요 편찬", "date": "1452/02/01"},
+        {"description": "이징옥의 난", "title": "이징옥의 난", "date": "1453/01/01"},
+        {"description": "홍문관 설치", "title": "홍문관 설치", "date": "1463/01/01"},
+        {"description": "경국대전 완성", "title": "경국대전 완성", "date": "1470/01/01"},
+        {"description": "무오사화", "title": "무오사화", "date": "1498/01/01"},
+        {"description": "갑자사화", "title": "갑자사화", "date": "1504/01/01"},
+        {"description": "중종 반정", "title": "중종 반정", "date": "1506/01/01"},
+        {"description": "을사사화", "title": "을사사화", "date": "1545/01/01"},
+        {"description": "을묘왜변", "title": "을묘왜변", "date": "1555/01/01"},
+        {"description": "임꺽정의 난", "title": "임꺽정의 난", "date": "1559/01/01"},
+        {"description": "임진왜란", "title": "임진왜란", "date": "1592/04/01"},
+        {"description": "행주대첩", "title": "행주대첩", "date": "1593/02/01"},
+        {"description": "정유재란", "title": "정유재란", "date": "1597/01/01"},
+        {"description": "노량해전", "title": "노량해전", "date": "1598/11/01"},
+        {"description": "홍길동전", "title": "홍길동전", "date": "1607/01/01"},
+        {"description": "병자호란", "title": "병자호란", "date": "1626/01/01"},
+        {"description": "정묘호란", "title": "정묘호란", "date": "1627/01/01"},
+        {"description": "하멜 표류", "title": "하멜 표류", "date": "1653/01/01"},
+        {"description": "나선정벌", "title": "나선정벌", "date": "1654/01/01"},
+        {"description": "예송논쟁", "title": "예송논쟁", "date": "1659/01/01"},
+        {"description": "상평통보 주조", "title": "상평통보 주조", "date": "1675/01/01"},
+        {"description": "경신환국", "title": "경신환국", "date": "1680/01/01"},
+        {"description": "기사환국", "title": "기사환국", "date": "1689/01/01"},
+        {"description": "대기근", "title": "대기근", "date": "1697/01/01"},
+        {"description": "장희빈 사약", "title": "장희빈 사약", "date": "1701/01/01"},
+        {"description": "군제(軍制)", "title": "군제(軍制)", "date": "1703/01/01"},
+        {"description": "대동법 실시", "title": "대동법 실시", "date": "1708/01/01"},
+        {"description": "백두산 정계비", "title": "백두산 정계비", "date": "1712/01/01"},
+        {"description": "탕평책 실시", "title": "탕평책 실시", "date": "1725/01/01"},
+        {"description": "이인좌의 난", "title": "이인좌의 난", "date": "1728/01/01"},
+        {"description": "균역법 실시", "title": "균역법 실시", "date": "1750/01/01"},
+        {"description": "박지원 열하일기", "title": "박지원 열하일기", "date": "1783/01/01"},
+        {"description": "안정복 동사강목", "title": "안정복 동사강목", "date": "1790/01/01"},
+        {"description": "김대건 순교", "title": "김대건 순교", "date": "1846/01/01"},
+        {"description": "진주 민란", "title": "진주 민란", "date": "1862/01/01"},
+        {"description": "병인박해", "title": "병인박해", "date": "1866/01/01"},
+        {"description": "신미양요", "title": "신미양요", "date": "1871/08/01"},
+        {"description": "운요호사건", "title": "운요호사건", "date": "1875/01/01"},
+        {"description": "신사유람단 파견", "title": "신사유람단 파견", "date": "1881/01/01"},
+        {"description": "갑신정변", "title": "갑신정변", "date": "1884/01/01"},
+        {"description": "갑오농민전쟁", "title": "갑오농민전쟁", "date": "1894/01/01"},
+        {"description": "서유견문록", "title": "서유견문록", "date": "1895/01/01"},
+        {"description": "을미의병", "title": "을미의병", "date": "1896/01/01"},
+        {"description": "이재수의 난", "title": "이재수의 난", "date": "1901/01/01"},
+        {"description": "한일의정서", "title": "한일의정서", "date": "1904/01/01"},
+        {"description": "가쓰라 태프트 밀약", "title": "가쓰라 태프트 밀약", "date": "1905/01/01"},
+        {"description": "통감부 설치", "title": "통감부 설치", "date": "1906/01/01"},
+        {"description": "국채 보상 운동", "title": "국채 보상 운동", "date": "1907/01/01"}
+    ]
+   }
